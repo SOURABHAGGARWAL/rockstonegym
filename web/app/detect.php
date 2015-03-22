@@ -4,23 +4,22 @@ if(stristr($userBrowser, 'application/vnd.wap.xhtml+xml'))
 {
 $_REQUEST['wap2'] = 1;
 }
-
-elseif(stripos($_SERVER['HTTP_USER_AGENT'],"iPod"))
+elseif(isset($_SERVER['HTTP_USER_AGENT']) && strstr($_SERVER['HTTP_USER_AGENT'], 'iPad'))
 {
 $_REQUEST['iphone'] = 1;
 
 }
-elseif(stripos($_SERVER['HTTP_USER_AGENT'],"iPhone"))
+elseif(isset($_SERVER['HTTP_USER_AGENT']) && strstr($_SERVER['HTTP_USER_AGENT'], 'iPhone'))
 {
 $_REQUEST['iphone'] = 1;
 
 }
-elseif(stripos($_SERVER['HTTP_USER_AGENT'],"Android"))
+elseif(isset($_SERVER['HTTP_USER_AGENT']) && strstr($_SERVER['HTTP_USER_AGENT'], 'Android'))
 {
 $_REQUEST['Android'] = 1;
 
 }
-elseif(stripos($_SERVER['HTTP_USER_AGENT'],"IEMobile"))
+elseif(isset($_SERVER['HTTP_USER_AGENT']) && strstr($_SERVER['HTTP_USER_AGENT'], 'iPhoneIEMobile'))
 {
 $_REQUEST['IEMobile'] = 1;
 
