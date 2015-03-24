@@ -8,7 +8,7 @@ if ($page_name=='') {
 elseif ($page_name=='index.php?page=index') {
 	include $browser_t.'/index.html';
 	}
-elseif ($page_name=='index.php?page=blog') {
+elseif ($page_name=='index.php?page=about') {
 	include $browser_t.'/about.html';
 	}
 elseif ($page_name=='index.php?page=service') {
