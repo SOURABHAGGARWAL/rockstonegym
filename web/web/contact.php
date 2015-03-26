@@ -46,13 +46,13 @@
 	<div class="header_sub">
 		<div class="h_menu">
 			<ul>
-					<li class="active"><a href="index.php?page=index">Home</a></li>
+					<li><a href="index.php?page=index">Home</a></li>
 					<li><a href="index.php?page=about">About us</a></li>
 					<li><a href="index.php?page=locator">Locator</a></li>
 					<li><a href="index.php?page=videos">Videos</a></li>
 					<li><a href="index.php?page=articles">Articles</a></li>
 					<li><a href="index.php?page=gym">Gym</a></li>
-					<li><a href="index.php?page=contact">Contact us</a></li>
+					<li class="active"><a href="index.php?page=contact">Contact us</a></li>
 			</ul>
 		</div>
 		<div class="h_search">
@@ -63,13 +63,13 @@
 		</div>
         <div class="menu">
         	<ul>
-					<li class="active"><a href="index.php?page=index">Home</a></li>
+					<li><a href="index.php?page=index">Home</a></li>
 					<li><a href="index.php?page=about">About us</a></li>
 					<li><a href="index.php?page=locator">Locator</a></li>
 					<li><a href="index.php?page=videos">Videos</a></li>
 					<li><a href="index.php?page=articles">Articles</a></li>
 					<li><a href="index.php?page=gym">Gym</a></li>
-					<li><a href="index.php?page=contact">Contact us</a></li>
+					<li class="active"><a href="index.php?page=contact">Contact us</a></li>
             </ul>
         </div>
         <div class="search">
@@ -129,7 +129,7 @@
 			 	 <div class="content">
 		 	 	<h2>Contact Us</h2>
 		 	 </div>
-					    <form method="post" action="contact-post.html">
+					    <form method="post" action="index.php?page=contact-post">
 					    	<div>
 						    	<span><label>Name</label></span>
 						    	<span><input name="userName" type="text" class="textbox"></span>

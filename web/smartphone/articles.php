@@ -89,7 +89,7 @@ hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </scri
 <div class="top_bg">
 <div class="wrap">
 	<div class="top">
-		<h2>recent blog</h2>
+		<h2>Articles</h2>
  	</div>
 </div>
 </div>

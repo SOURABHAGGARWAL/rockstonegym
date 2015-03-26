@@ -46,9 +46,9 @@
 	<div class="header_sub">
 		<div class="h_menu">
 			<ul>
-					<li class="active"><a href="index.php?page=index">Home</a></li>
+					<li><a href="index.php?page=index">Home</a></li>
 					<li><a href="index.php?page=about">About us</a></li>
-					<li><a href="index.php?page=locator">Locator</a></li>
+					<li class="active"><a href="index.php?page=locator">Locator</a></li>
 					<li><a href="index.php?page=videos">Videos</a></li>
 					<li><a href="index.php?page=articles">Articles</a></li>
 					<li><a href="index.php?page=gym">Gym</a></li>
@@ -63,9 +63,9 @@
 		</div>
         <div class="menu">
         	<ul>
-					<li class="active"><a href="index.php?page=index">Home</a></li>
+					<li><a href="index.php?page=index">Home</a></li>
 					<li><a href="index.php?page=about">About us</a></li>
-					<li><a href="index.php?page=locator">Locator</a></li>
+					<li class="active"><a href="index.php?page=locator">Locator</a></li>
 					<li><a href="index.php?page=videos">Videos</a></li>
 					<li><a href="index.php?page=articles">Articles</a></li>
 					<li><a href="index.php?page=gym">Gym</a></li>

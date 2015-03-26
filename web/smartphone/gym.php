@@ -89,7 +89,7 @@ hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </scri
 <div class="top_bg">
 <div class="wrap">
 	<div class="top">
-		<h2>our services</h2>
+		<h2>OPEN @ROCKSTONE GYM</h2>
  	</div>
 </div>
 </div>
