@@ -32,7 +32,7 @@
 		    <ul>
 		      <li><a href="#" target="_blank"></a></li>
 			<li><a href="http://www.facebook.com/rockStoneGym" target="_blank"></a></li>
-		      	<li><a href="#" target="_blank"></a></li>
+		      	<li><a href="https://twitter.com/rockstonegym" target="_blank"></a></li>
 			<li><a href="http://www.linkedin.com/company/rockstone-gym" target="_blank"></a></li>
 		     </ul>
 		</div>
@@ -190,7 +190,7 @@
 		    <ul>
 		      <li><a href="#" target="_blank"></a></li>
 			<li><a href="http://www.facebook.com/rockStoneGym" target="_blank"></a></li>
-		      	<li><a href="#" target="_blank"></a></li>
+		      	<li><a href="https://twitter.com/rockstonegym" target="_blank"></a></li>
 			<li><a href="http://www.linkedin.com/company/rockstone-gym" target="_blank"></a></li>
 		     </ul>
 		</div>

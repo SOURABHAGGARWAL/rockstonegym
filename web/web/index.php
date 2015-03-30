@@ -67,9 +67,9 @@ jQuery(document).ready(function(jQuery) {
 					<div class="social-icons">
 					    <ul>
 					      <li><a href="#" target="_blank"></a></li>
-					      <li><a href="http://www.facebook.com/rockStoneGym" target="_blank"></a></li>
-					      <li><a href="#" target="_blank"></a></li>
-					      <li><a href="http://www.linkedin.com/company/rockstone-gym" target="_blank"></a></li>
+						<li><a href="http://www.facebook.com/rockStoneGym" target="_blank"></a></li>
+					      	<li><a href="https://twitter.com/rockstonegym" target="_blank"></a></li>
+						<li><a href="http://www.linkedin.com/company/rockstone-gym" target="_blank"></a></li>
 					    </ul>
 					</div>
 					<div class="clear"></div>
@@ -406,10 +406,10 @@ jQuery(document).ready(function(jQuery) {
 				<!--end scroll_top_btn -->
 				<div class="social-icons">
 				    <ul>
-				      <li><a href="#" target="_blank"></a></li>
-					<li><a href="http://www.facebook.com/rockStoneGym" target="_blank"></a></li>
-				      	<li><a href="#" target="_blank"></a></li>
-					<li><a href="http://www.linkedin.com/company/rockstone-gym" target="_blank"></a></li>
+					      <li><a href="#" target="_blank"></a></li>
+						<li><a href="http://www.facebook.com/rockStoneGym" target="_blank"></a></li>
+					      	<li><a href="https://twitter.com/rockstonegym" target="_blank"></a></li>
+						<li><a href="http://www.linkedin.com/company/rockstone-gym" target="_blank"></a></li>
 				     </ul>
 				</div>
 				<div class="copy">
