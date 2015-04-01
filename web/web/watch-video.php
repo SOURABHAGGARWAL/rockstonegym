@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>RockStone services</title>
+<title>RockStone details</title>
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -49,7 +49,7 @@
 					<li><a href="index.php?page=index">Home</a></li>
 					<li><a href="index.php?page=about">About us</a></li>
 					<li><a href="index.php?page=locator">Locator</a></li>
-					<li class="active"><a href="index.php?page=videos">Videos</a></li>
+					<li><a href="index.php?page=videos">Videos</a></li>
 					<li><a href="index.php?page=articles">Articles</a></li>
 					<li><a href="index.php?page=gym">Gym</a></li>
 					<li><a href="index.php?page=contact">Contact us</a></li>
@@ -66,7 +66,7 @@
 					<li><a href="index.php?page=index">Home</a></li>
 					<li><a href="index.php?page=about">About us</a></li>
 					<li><a href="index.php?page=locator">Locator</a></li>
-					<li class="active"><a href="index.php?page=videos">Videos</a></li>
+					<li><a href="index.php?page=videos">Videos</a></li>
 					<li><a href="index.php?page=articles">Articles</a></li>
 					<li><a href="index.php?page=gym">Gym</a></li>
 					<li><a href="index.php?page=contact">Contact us</a></li>
@@ -111,82 +111,17 @@
 <div class="top_bg">
 <div class="wrap">
 	<div class="top">
-		<h2>Videos</h2>
+		<h2>@rockStone Video</h2>
  	</div>
 </div>
 </div>
 <!-- start main -->
 <div class="wrap">
-<div class="main">
-		<!-- start span_of_3 -->
-		<div class="span_of_3">
-			<div class="span1_of_3">
-				<a href="details.html"><img src="web/images/pic2.jpg" alt=""></a>
-				<div class="span1_of_3_text">
-					<h3><a href="index.php?page=watch-video">Arnold workout for the day</a></h3>
-					<p>See the best video of the arnold working out in gym for the long hour to be prepared fo the long line championship.</p>
-				</div>
-				<div class="ser_btn">
-					<a class="button  ser_btn1" href="index.php?page=watch-video">watch video</a>
-				</div>
-			</div>
-			<div class="span1_of_3">
-				<a href="index.php?page=details"><img src="web/images/pic2.jpg" alt=""></a>
-				<div class="span1_of_3_text">
-					<h3><a href="details.html">Lorem Ipsum is simply  text</a></h3>
-					<p>Lorem Ipsum is simply sit amet consectetur dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p>
-				</div>
-				<div class="ser_btn">
-					<a class="button  ser_btn1" href="index.php?page=watch-video">watch video</a>
-				</div>
-			</div>
-			<div class="span1_of_3">
-				<a href="index.php?page=details"><img src="web/images/pic3.jpg" alt=""></a>
-				<div class="span1_of_3_text">
-					<h3><a href="details.html">Lorem Ipsum is simply  text</a></h3>
-					<p>Lorem Ipsum is simply sit amet consectetur dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p>
-				</div>
-				<div class="ser_btn">
-					<a class="button  ser_btn1" href="index.php?page=watch-video">watch video</a>
-				</div>
-			</div>
+	<div class="main">
+		<div class="details">
+				  <iframe src="http://www.youtube.com/embed/CVBFtogcGSc"  width="100%" style="min-height: 600px;"></iframe>
 			<div class="clear"></div>
 		</div>
-		<!--  -->
-		<div class="span_of_3">
-			<div class="span1_of_3">
-				<a href="index.php?page=details"><img src="web/images/pic4.jpg" alt=""></a>
-				<div class="span1_of_3_text">
-					<h3><a href="details.html">Lorem Ipsum is simply  text</a></h3>
-					<p>Lorem Ipsum is simply sit amet consectetur dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p>
-				</div>
-				<div class="ser_btn">
-					<a class="button  ser_btn1" href="index.php?page=watch-video">watch video</a>
-				</div>
-			</div>
-			<div class="span1_of_3">
-				<a href="index.php?page=details"><img src="web/images/pic5.jpg" alt=""></a>
-				<div class="span1_of_3_text">
-					<h3><a href="details.html">Lorem Ipsum is simply  text</a></h3>
-					<p>Lorem Ipsum is simply sit amet consectetur dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p>
-				</div>
-				<div class="ser_btn">
-					<a class="button  ser_btn1" href="index.php?page=watch-video">watch video</a>
-				</div>
-			</div>
-			<div class="span1_of_3">
-				<a href="index.php?page=details"><img src="web/images/pic6.jpg" alt=""></a>
-				<div class="span1_of_3_text">
-					<h3><a href="details.html">Lorem Ipsum is simply  text</a></h3>
-					<p>Lorem Ipsum is simply sit amet consectetur dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p>
-				</div>
-				<div class="ser_btn">
-					<a class="button  ser_btn1" href="index.php?page=watch-video">watch video</a>
-				</div>
-			</div>
-			<div class="clear"></div>
-		</div>
-		<!-- end grids_of_3 -->
 	</div>
 </div>
 <!-- start footer -->

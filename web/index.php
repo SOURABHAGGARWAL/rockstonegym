@@ -32,6 +32,9 @@ elseif ($page_name=='index.php?page=details') {
 elseif ($page_name=='index.php?page=404') {
 	include $browser_t.'/404.php';
 	}
+elseif ($page_name=='index.php?page=watch-video') {
+	include $browser_t.'/watch-video.php';
+	}
 elseif ($page_name=='index.php?page=contact-post') {
 	include 'app/contact.php';
 	}

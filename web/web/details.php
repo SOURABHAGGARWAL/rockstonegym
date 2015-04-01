@@ -140,34 +140,38 @@
 	<div class="footer">
 		<!-- start span_of_4 -->
 		<div class="span_of_4">
-			<div class="span1_of_4">
-				<h4>popular post</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-				<ul class="f_nav1">
-					<li class="timer"><a href="#">25-september 2013 </a></li>
-				</ul>
-				<p class="top">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-				<ul class="f_nav1">
-					<li class="timer"><a href="#">25-september 2013 </a></li>
-				</ul>
-			</div>
-			<div class="span1_of_4">
-				<h4>tags</h4>
-				<p>It is a long established fact that a reader will be distracted by the<big>readable</big> content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal <big>blog</big> Many desktop publishing packages and web page editors now use Lorem.</p>
-			</div>
-			<div class="span1_of_4">
-				<h4>a little about us</h4>
-				<p class="btm">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-				<p>It is a long established fact that a reader will be of a page when looking at its layout.</p>
-
-			</div>
-			<div class="span1_of_4">
-				<h4>get in touch</h4>
-				<p class="btm">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since</p>
-				<p class="btm1 pin">Texas, US</p>
-				<p class="btm1 mail"><a href="mailto:info@mycompany.com">info(at)mycompany.com </a></p>
-				<p class="call">01234 444 777</p>
-			</div>
+				<div class="span1_of_4">
+					<h4>popular post</h4>
+					<p>Reduce your weight upto 10Kg in 10 days.</p>
+					<ul class="f_nav1">
+						<li class="timer"><a href="#">26 March 2015 </a></li>
+					</ul>
+					<p class="top">Gain 10Kg muscles weight in just 2 month.</p>
+					<ul class="f_nav1">
+						<li class="timer"><a href="#">25 March 2015 </a></li>
+					</ul>
+					<p class="top">Attractive ABS in just 2 month.</p>
+					<ul class="f_nav1">
+						<li class="timer"><a href="#">27 March 2015 </a></li>
+					</ul>
+				</div>
+				<div class="span1_of_4">
+					<h4>tags</h4>
+					<p>We are providers of <big>Gym</big> in india <big>standardize</big> the process of opening new gym. Providing <big>health advices</big>. Provide <big>Nutrition</big> tips. Provide online <big>Videos</big> and <big>Articles</big> for excercises and fitness tips. Providing <big>frenchies</big> of @RockStone Gym to existing and new Gyms. Maninting the <big>global standard</big> in fitness for all @RockStone Gyms.</p>
+				</div>
+				<div class="span1_of_4">
+					<h4>a little about us</h4>
+					<p class="btm">We are the new industory in fitness and wanted to standardize the process of opening the new GYM and maintaing there standards to global level.</p>
+					<p>New provide assistance in opening new GYM to starters selling frenchies of @RockStone GYM.</p>
+					<p>We provide health and nutrition tips with videos and articles.</p>
+				</div>
+				<div class="span1_of_4">
+					<h4>get in touch</h4>
+					<p class="btm">We have started new chain of Gyms in india and looking for the curious people who want to open a new GYM in india according to world standard or want to  convert his/her existing GYM to global level GYM with @RockStone GYM.</p>
+					<p class="btm1 pin">Faridabad, Haryana, India</p>
+					<p class="btm1 mail"><a href="mailto:rockstonegym@rockstonegym.com">info@rockstone.com </a></p>
+					<p class="call">91-9810700893</p>
+				</div>
 			<div class="clear"></div>
 		</div>
 	</div>
@@ -201,10 +205,10 @@
 			<li><a href="http://www.facebook.com/rockStoneGym" target="_blank"></a></li>
 		      	<li><a href="https://twitter.com/rockstonegym" target="_blank"></a></li>
 			<li><a href="http://www.linkedin.com/company/rockstone-gym" target="_blank"></a></li>
-			</ul>
+		     </ul>
 		</div>
 		<div class="copy">
-			<p class="link"><span>&copy; 2014 Webworld-v2. All rights reserved | Template by&nbsp;<a href="http://w3layouts.com/"> W3Layouts</a></span></p>
+			<p class="link"><span>&copy; 2015 @RockStone Gym. All rights reserved | Template by&nbsp;<a href="http://www.rockstonegym.com/">@RockStone Gym</a></span></p>
 		</div>
 		<div class="clear"></div>
 	</div>
